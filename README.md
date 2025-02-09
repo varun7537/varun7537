@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 - 🎓 I recently graduated with a **B.Sc. in Computer Science** and am currently pursuing **Master of Computer Applications (MCA)**.
 - 🔭 I’m currently working on **Real-Time Chat Application**.
-- 📝 I write articles on [Medium](https://medium.com/).
+- 📝 I write articles on [Medium](https://medium.com/@varunvangari).
 - 💬 Ask me about **React, Tailwind CSS, Node.js, MongoDB**.
 - 📫 Reach me at **varunvangari29@gmail.com**.
 - 📄 Check out my **[Resume (Coming Soon)]()**.
@@ -24,16 +24,17 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarunVangari&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunVangari&theme=radical" height="165"/>
-</p>
+### 🔹 [Real-Time Chat Application](#)
+- A feature-rich chat app with real-time messaging, authentication, and file sharing.
+- **Tech Stack:** React, Node.js, Socket.io, MongoDB, Tailwind CSS.
+- **Status:** In Progress 🚀
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunVangari&theme=redical" />
-</p>
+### 🔹 [Recipe Finder](#)
+- A web app to search and filter recipes based on ingredients and preferences.
+- **Tech Stack:** Next.js, Tailwind CSS, API Integration.
+- **Status:** Completed ✅
 
 ---
 
@@ -52,25 +53,26 @@
 
 ---
 
-## 📌 Fun Widgets
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default" />
-</p>
-
----
-
-## 🎯 Profile Views & Trophies
+## 🎯 Profile Badges
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VarunVangari&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://github-profile-trophy.vercel.app/?username=VarunVangari&margin-w=10&column=7&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunVangari&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🚀 **Thanks for Visiting!** 🏆 
+## 📌 Fun Add-ons
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/simonw/simonw/blob/main/media/github-habits.png?raw=true" alt="GitHub Habits" width="500" />
+</p>
+
+---
+
+### 🚀 **Thanks for Visiting!** 🏆
