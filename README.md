@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="500">
+</div>
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to Varun Vangari's Profile!
@@ -16,6 +20,9 @@
 <!-- About Section -->
 <details open> 
   <summary><h2>🧑‍💻 About Me</h2></summary>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  </p>
   <p align="center">
     I'm a passionate Computer Science graduate currently pursuing my Master's in Computer Applications (MCA). My journey in tech is driven by curiosity and creativity, always eager to explore and experiment with new technologies.
   </p>
@@ -37,6 +44,10 @@
 <details open>
   <summary><h2>🚀 Current Activities</h2></summary>
   
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+  </p>
+  
   - 🔭 Working on a **Real-Time Chat Application**
   - 🎓 Pursuing **Master of Computer Applications (MCA)**
   - 📝 Writing technical articles on [Medium](https://medium.com/@varunvangari)
@@ -49,6 +60,10 @@
 <details open>
   <summary><h2>🛠️ My Tech Stack</h2></summary>
   
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="400">
+  </p>
+
   <h3>💻 Programming Languages</h3>
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -80,14 +95,50 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </details>
 
-<!-- GitHub Stats -->
+<!-- Featured Projects -->
 <details open>
-  <summary><h2>📊 GitHub Stats</h2></summary>
+  <summary><h2>🌟 Featured Projects</h2></summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=varunvangari&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunvangari&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunvangari&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
   </p>
+  
+  <div align="center">
+    <table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Real-Time Chat App</h3>
+          <p align="center">
+            <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/chat.gif" width="200" alt="Project 1"/>
+            <p align="center">
+              A modern chat application built with React, Node.js, and Socket.io
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Project 2</h3>
+          <p align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="200" alt="Project 2"/>
+            <p align="center">
+              Coming Soon...
+            </p>
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<!-- Achievements Section -->
+<details open>
+  <summary><h2>🏆 Achievements</h2></summary>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="400">
+  </p>
+  
+  - 🎯 Successfully completed 50+ projects in web development
+  - 🌟 Active contributor to open-source projects
+  - 📚 Published technical articles with 1000+ reads
+  - 🏆 Won coding competitions at college level
 </details>
 
 <!-- Snake Animation -->
@@ -98,6 +149,8 @@
 ---
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+  <br><br>
   <i>Let's connect and build something amazing together!</i>
   <br><br>
   <a href="https://linkedin.com/in/varun-vangari">
