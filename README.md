@@ -1,90 +1,101 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+VARUN+VANGARI....;Nice+to+meet+you!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Varun+Vangari....;Nice+to+meet+you!&center=true&size=30&color=FE428E">
 </h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Computer+Science+Graduate;Always+learning+new+things&center=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Computer+Science+Graduate;Always+learning+new+things&center=true&size=20&color=36BCF7FF">
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varunvangari&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-  <img src="https://img.shields.io/github/followers/varunvangari?label=Followers&style=social" alt="followers" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VarunVangari.VarunVangari" alt="visitors"/>
+  <img src="https://img.shields.io/github/followers/VarunVangari?label=Followers&style=social" alt="followers"/>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunvangari&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VarunVangari&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VarunVangari&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunvangari&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunVangari&theme=radical&hide_border=false"/>
 </div>
 
 ## 🚀 About Me
-- 🎓 Recent B.Sc. Computer Science graduate
-- 📚 Currently pursuing Master of Computer Application (MCA)
-- 💻 Working on a **Real-Time Chat Application**
-- ✍️ Writing articles on [Medium](your-medium-link)
-- 🌱 Always learning and exploring new technologies
-- 😄 Fun fact: I think I am funny 😆
-
-## 🔥 Current Status
-```typescript
+```javascript
 const varun = {
-    code: ["JavaScript", "Python", "Java", "C++", "C#"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Bootstrap", "TailwindCSS", "SASS"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "Postman", "Firebase", "Figma"]
+    pronouns: "He" | "Him",
+    education: {
+        degree: "B.Sc. Computer Science",
+        currentlyPursuing: "Master of Computer Application (MCA)"
     },
-    currentFocus: "Building Real-Time Applications",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentProject: "Real-Time Chat Application",
+    passions: ["Full Stack Development", "Problem Solving", "Learning New Tech"],
+    funFact: "I think I am funny 😆"
 };
 ```
 
-## 🛠️ Skills & Tools
+## 💻 Tech Stack
+```javascript
+const skills = {
+    languages: ["JavaScript", "Python", "Java", "C++", "C#"],
+    frontend: {
+        frameworks: ["React.js"],
+        styling: ["TailwindCSS", "Bootstrap", "SASS", "CSS3"],
+        markup: ["HTML5"]
+    },
+    backend: {
+        javascript: ["Node.js", "Express.js"],
+        python: ["Django"]
+    },
+    databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    tools: ["Git", "GitHub", "VS Code", "Postman", "Firebase", "Figma"],
+    currentlyLearning: ["Next.js", "TypeScript", "AWS"]
+};
+```
+
+## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 </p>
 
-## 📊 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunvangari&theme=radical&layout=compact" />
-</div>
-
-## 🌐 Connect with me
+## 🌐 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/varun-vangari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:varunvangari29@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="your-medium-link">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
   </a>
 </p>
 
-## 📈 Activity Graph
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunVangari&theme=radical"/>
+</p>
+
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=varunvangari&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VarunVangari&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1"/>
+</div>
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif"/>
 </div>
 
 ---
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!+✌️;Message+me+on+LinkedIn!;I'm+always+happy+to+connect!&center=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!+✌️;Let's+connect+on+LinkedIn!;Always+happy+to+collaborate!&center=true&size=20&color=36BCF7FF"/>
 </div>
