@@ -118,7 +118,3 @@ const skills = {
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github.com/varunvangari/varunvangari/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
