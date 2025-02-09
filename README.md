@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on **Real-Time Chat Application**.
 - 📝 I write articles on [Medium](https://medium.com/@varunvangari).
 - 💬 Ask me about **React, Tailwind CSS, Node.js, MongoDB**.
-- 📫 Reach me at **varunvangari29@gmail.com**.
-- 📄 Check out my **[Resume (Coming Soon)]()**.
+- 📧 Reach me at **varunvangari29@gmail.com**.
+- 📝 Check out my **[Resume (Coming Soon)]()**.
 - ⚡ Fun fact: **I think I am funny 😆**
 
 ---
@@ -53,36 +53,26 @@
 
 ---
 
-## 🎯 Profile Badges
+## ⏳ Coding Streak & Productivity Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VarunVangari&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://github-profile-trophy.vercel.app/?username=VarunVangari&margin-w=10&column=7&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunVangari&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunVangari&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VarunVangari&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 🏆 GitHub Contributions
+## 📉 Fun Add-ons
 
+### 📅 GitHub Skyline
 <p align="center">
-  <img src="https://github.com/VarunVangari/VarunVangari/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://skyline.github.com/VarunVangari/2024" alt="GitHub Skyline" width="500" />
 </p>
 
----
-
-## 📌 Fun Add-ons
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
-
+### 💡 Developer Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/simonw/simonw/blob/main/media/github-habits.png?raw=true" alt="GitHub Habits" width="500" />
 </p>
 
 ---
